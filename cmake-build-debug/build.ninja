@@ -72,11 +72,11 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_Leetcode: phony || CMakeFiles/Leetcode.dir
 
-build CMakeFiles/Leetcode.dir/128-Longest-Consecutive-Sequence.cpp.o: CXX_COMPILER__Leetcode_Debug /Users/agus/Github/Leetcode/128-Longest-Consecutive-Sequence.cpp || cmake_object_order_depends_target_Leetcode
-  DEP_FILE = CMakeFiles/Leetcode.dir/128-Longest-Consecutive-Sequence.cpp.o.d
+build CMakeFiles/Leetcode.dir/Solutions/128-Longest-Consecutive-Sequence.cpp.o: CXX_COMPILER__Leetcode_Debug /Users/agus/Github/Leetcode/Solutions/128-Longest-Consecutive-Sequence.cpp || cmake_object_order_depends_target_Leetcode
+  DEP_FILE = CMakeFiles/Leetcode.dir/Solutions/128-Longest-Consecutive-Sequence.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Leetcode.dir
-  OBJECT_FILE_DIR = CMakeFiles/Leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/Leetcode.dir/Solutions
 
 build CMakeFiles/Leetcode.dir/main.cpp.o: CXX_COMPILER__Leetcode_Debug /Users/agus/Github/Leetcode/main.cpp || cmake_object_order_depends_target_Leetcode
   DEP_FILE = CMakeFiles/Leetcode.dir/main.cpp.o.d
@@ -92,7 +92,7 @@ build CMakeFiles/Leetcode.dir/main.cpp.o: CXX_COMPILER__Leetcode_Debug /Users/ag
 #############################################
 # Link the executable Leetcode
 
-build Leetcode: CXX_EXECUTABLE_LINKER__Leetcode_Debug CMakeFiles/Leetcode.dir/128-Longest-Consecutive-Sequence.cpp.o CMakeFiles/Leetcode.dir/main.cpp.o
+build Leetcode: CXX_EXECUTABLE_LINKER__Leetcode_Debug CMakeFiles/Leetcode.dir/Solutions/128-Longest-Consecutive-Sequence.cpp.o CMakeFiles/Leetcode.dir/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/Leetcode.dir
   POST_BUILD = :

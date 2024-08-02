@@ -1,4 +1,4 @@
-#include "128-Longest-Consecutive-Sequence.cpp"
+#include "Solutions/128-Longest-Consecutive-Sequence.cpp"
 #include <iostream>
 
 int main(int argc, char *argv[])
