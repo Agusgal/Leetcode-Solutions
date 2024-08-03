@@ -58,7 +58,9 @@
 				3,
 				4,
 				5,
-				6
+				6,
+				7,
+				8
 			]
 		}
 	],
@@ -97,7 +99,9 @@
 				3,
 				4,
 				5,
-				6
+				6,
+				7,
+				8
 			]
 		}
 	],
@@ -124,6 +128,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+			"path" : "Solutions/49 Group Anagrams.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
 			"path" : "Solutions/128 Longest Consecutive Sequence.cpp",
 			"sourceGroupIndex" : 0
 		},
@@ -137,6 +147,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Solutions/242 Valid Anagram.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Solutions/347 Top K Frequent Elements.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
