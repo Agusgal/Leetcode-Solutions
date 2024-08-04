@@ -12,5 +12,6 @@ add_executable(Leetcode
                 "Solutions/217 Contains Duplicate.cpp"
                 "Solutions/242 Valid Anagram.cpp"
                 "Solutions/347 Top K Frequent Elements.cpp"
+                "Solutions/659 Encode and Decode Strings.cpp"
                 main.cpp)
 
