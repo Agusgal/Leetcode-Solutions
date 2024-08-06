@@ -8,6 +8,7 @@ add_executable(Leetcode
                 "Solutions/5 Longest Palindromic Substring.cpp"
                 "Solutions/3 Longest Substring Without Repeating Characters.cpp"
                 "Solutions/15 3Sum.cpp"
+                "Solutions/36 Valid Sudoku.cpp"
                 "Solutions/49 Group Anagrams.cpp"
                 "Solutions/125 Valid Palindrome.cpp"
                 "Solutions/128 Longest Consecutive Sequence.cpp"

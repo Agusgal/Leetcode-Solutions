@@ -1,5 +1,9 @@
 #include <vector>
 
+
+// This solution has a time complexity of o(n^2)
+// It uses a left and right pointer to iterate trough a subarray.
+// It is important to exclude repetitions, thats why we sort the array first and use continue and the inner while loops.
 using namespace std;
 class Solution {
 public:
