@@ -1,15 +1,15 @@
-#include "Solutions/238 Product of Array Except Self.cpp"
+#include "Solutions/15 3Sum.cpp"
 #include <iostream>
 
 int main(int argc, char *argv[])
 {
     Solution Sol;
 
-    vector<string> input1 = {"neet", "code", "love", "you"};
-    vector<string> input2 = {"we", "say", ":", "yes"};
+    vector<int> input1 = {-1,0,1,2,-1,-4};
+    vector<int> input2 = {0,1,1};
+    vector<int> input3 = {0, 0, 0};
+    vector<int> input4 = {0, 0, 0, 0};
 
-
-    //string encoded = Sol.encode(input3);
-    //vector<string> decoded = Sol.decode(encoded);
+    Sol.threeSum(input4);
     return 0;
 }
