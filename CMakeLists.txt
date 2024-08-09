@@ -12,6 +12,7 @@ add_executable(Leetcode
                 "Solutions/36 Valid Sudoku.cpp"
                 "Solutions/42 Trapping Rain Water.cpp"
                 "Solutions/49 Group Anagrams.cpp"
+                "Solutions/121 Best Time to Buy And Sell Stock.cpp"
                 "Solutions/125 Valid Palindrome.cpp"
                 "Solutions/128 Longest Consecutive Sequence.cpp"
                 "Solutions/167 Two Sum II - Input Array Is Sorted.cpp"
