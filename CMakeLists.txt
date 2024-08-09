@@ -12,6 +12,7 @@ add_executable(Leetcode
                 "Solutions/49 Group Anagrams.cpp"
                 "Solutions/125 Valid Palindrome.cpp"
                 "Solutions/128 Longest Consecutive Sequence.cpp"
+                "Solutions/167 Two Sum II - Input Array Is Sorted.cpp"
                 "Solutions/217 Contains Duplicate.cpp"
                 "Solutions/238 Product of Array Except Self.cpp"
                 "Solutions/242 Valid Anagram.cpp"
