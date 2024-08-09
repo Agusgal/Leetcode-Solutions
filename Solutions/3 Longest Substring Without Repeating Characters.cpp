@@ -113,14 +113,15 @@ public:
 
         std::vector<int> seen(256, 0);
         int maxLen = 1;
-        for (int i = 0, start = 0; i < str.length(); i++) {
-            int seenIndex = seen[str[i]];
+        int start = 0;
+        for (int end = 0; end < str.length(); end++) {
+            int seenIndex = seen[str[end]];
             if (seenIndex > start)
             {
                 start = seenIndex;
             }
-            maxLen = std::max(maxLen, i - start + 1);
-            seen[str[i]] = i + 1;
+            maxLen = std::max(maxLen, end - start + 1);
+            seen[str[end]] = end + 1;
         }
         return maxLen;
     }
