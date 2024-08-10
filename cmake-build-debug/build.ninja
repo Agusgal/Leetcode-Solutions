@@ -168,6 +168,12 @@ build CMakeFiles/Leetcode.dir/Solutions/347_Top_K_Frequent_Elements.cpp.o: CXX_C
   OBJECT_DIR = CMakeFiles/Leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles/Leetcode.dir/Solutions
 
+build CMakeFiles/Leetcode.dir/Solutions/424_Longest_Repeating_Character_Replacement.cpp.o: CXX_COMPILER__Leetcode_Debug /Users/agus/Github/Leetcode/Solutions/424$ Longest$ Repeating$ Character$ Replacement.cpp || cmake_object_order_depends_target_Leetcode
+  DEP_FILE = CMakeFiles/Leetcode.dir/Solutions/424_Longest_Repeating_Character_Replacement.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles/Leetcode.dir/Solutions
+
 build CMakeFiles/Leetcode.dir/Solutions/659_Encode_and_Decode_Strings.cpp.o: CXX_COMPILER__Leetcode_Debug /Users/agus/Github/Leetcode/Solutions/659$ Encode$ and$ Decode$ Strings.cpp || cmake_object_order_depends_target_Leetcode
   DEP_FILE = CMakeFiles/Leetcode.dir/Solutions/659_Encode_and_Decode_Strings.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
@@ -188,7 +194,7 @@ build CMakeFiles/Leetcode.dir/main.cpp.o: CXX_COMPILER__Leetcode_Debug /Users/ag
 #############################################
 # Link the executable Leetcode
 
-build Leetcode: CXX_EXECUTABLE_LINKER__Leetcode_Debug CMakeFiles/Leetcode.dir/Solutions/1_Two_Sum.cpp.o CMakeFiles/Leetcode.dir/Solutions/5_Longest_Palindromic_Substring.cpp.o CMakeFiles/Leetcode.dir/Solutions/3_Longest_Substring_Without_Repeating_Characters.cpp.o CMakeFiles/Leetcode.dir/Solutions/11_Container_With_Most_Water.cpp.o CMakeFiles/Leetcode.dir/Solutions/15_3Sum.cpp.o CMakeFiles/Leetcode.dir/Solutions/36_Valid_Sudoku.cpp.o CMakeFiles/Leetcode.dir/Solutions/42_Trapping_Rain_Water.cpp.o CMakeFiles/Leetcode.dir/Solutions/49_Group_Anagrams.cpp.o CMakeFiles/Leetcode.dir/Solutions/121_Best_Time_to_Buy_And_Sell_Stock.cpp.o CMakeFiles/Leetcode.dir/Solutions/125_Valid_Palindrome.cpp.o CMakeFiles/Leetcode.dir/Solutions/128_Longest_Consecutive_Sequence.cpp.o CMakeFiles/Leetcode.dir/Solutions/167_Two_Sum_II_-_Input_Array_Is_Sorted.cpp.o CMakeFiles/Leetcode.dir/Solutions/217_Contains_Duplicate.cpp.o CMakeFiles/Leetcode.dir/Solutions/238_Product_of_Array_Except_Self.cpp.o CMakeFiles/Leetcode.dir/Solutions/242_Valid_Anagram.cpp.o CMakeFiles/Leetcode.dir/Solutions/347_Top_K_Frequent_Elements.cpp.o CMakeFiles/Leetcode.dir/Solutions/659_Encode_and_Decode_Strings.cpp.o CMakeFiles/Leetcode.dir/main.cpp.o
+build Leetcode: CXX_EXECUTABLE_LINKER__Leetcode_Debug CMakeFiles/Leetcode.dir/Solutions/1_Two_Sum.cpp.o CMakeFiles/Leetcode.dir/Solutions/5_Longest_Palindromic_Substring.cpp.o CMakeFiles/Leetcode.dir/Solutions/3_Longest_Substring_Without_Repeating_Characters.cpp.o CMakeFiles/Leetcode.dir/Solutions/11_Container_With_Most_Water.cpp.o CMakeFiles/Leetcode.dir/Solutions/15_3Sum.cpp.o CMakeFiles/Leetcode.dir/Solutions/36_Valid_Sudoku.cpp.o CMakeFiles/Leetcode.dir/Solutions/42_Trapping_Rain_Water.cpp.o CMakeFiles/Leetcode.dir/Solutions/49_Group_Anagrams.cpp.o CMakeFiles/Leetcode.dir/Solutions/121_Best_Time_to_Buy_And_Sell_Stock.cpp.o CMakeFiles/Leetcode.dir/Solutions/125_Valid_Palindrome.cpp.o CMakeFiles/Leetcode.dir/Solutions/128_Longest_Consecutive_Sequence.cpp.o CMakeFiles/Leetcode.dir/Solutions/167_Two_Sum_II_-_Input_Array_Is_Sorted.cpp.o CMakeFiles/Leetcode.dir/Solutions/217_Contains_Duplicate.cpp.o CMakeFiles/Leetcode.dir/Solutions/238_Product_of_Array_Except_Self.cpp.o CMakeFiles/Leetcode.dir/Solutions/242_Valid_Anagram.cpp.o CMakeFiles/Leetcode.dir/Solutions/347_Top_K_Frequent_Elements.cpp.o CMakeFiles/Leetcode.dir/Solutions/424_Longest_Repeating_Character_Replacement.cpp.o CMakeFiles/Leetcode.dir/Solutions/659_Encode_and_Decode_Strings.cpp.o CMakeFiles/Leetcode.dir/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/Leetcode.dir
   POST_BUILD = :

@@ -20,6 +20,7 @@ add_executable(Leetcode
                 "Solutions/238 Product of Array Except Self.cpp"
                 "Solutions/242 Valid Anagram.cpp"
                 "Solutions/347 Top K Frequent Elements.cpp"
+                "Solutions/424 Longest Repeating Character Replacement.cpp"
                 "Solutions/659 Encode and Decode Strings.cpp"
                 main.cpp)
 

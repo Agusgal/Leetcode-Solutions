@@ -4,7 +4,7 @@
 using namespace std;
 
 //Using Bucket sort and a map is posible to solve this problem.
-//Frs it is necessary to cerate a map of keys with their frequency.
+//First it is necessary to create a map of keys with their frequency.
 //Then qe map that map with a bucket to sort the most frequent numbers.
 class Solution {
 public:
