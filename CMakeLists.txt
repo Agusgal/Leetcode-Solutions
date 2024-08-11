@@ -21,6 +21,7 @@ add_executable(Leetcode
                 "Solutions/242 Valid Anagram.cpp"
                 "Solutions/347 Top K Frequent Elements.cpp"
                 "Solutions/424 Longest Repeating Character Replacement.cpp"
+                "Solutions/567 Permutation in String.cpp"
                 "Solutions/659 Encode and Decode Strings.cpp"
                 main.cpp)
 

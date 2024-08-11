@@ -70,7 +70,8 @@
 				15,
 				16,
 				17,
-				18
+				18,
+				19
 			]
 		}
 	],
@@ -121,7 +122,8 @@
 				15,
 				16,
 				17,
-				18
+				18,
+				19
 			]
 		}
 	],
@@ -227,6 +229,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Solutions/424 Longest Repeating Character Replacement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Solutions/567 Permutation in String.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
